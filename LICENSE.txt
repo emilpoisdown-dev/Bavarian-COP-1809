@@ -1,0 +1,174 @@
+BAVARIA COP 1809 — PROPRIETARY SOFTWARE LICENSE
+=================================================
+Copyright © 2025 Frank L. Adams III. All Rights Reserved.
+
+NOTICE: This software is protected by United States copyright law and
+international treaty provisions. Unauthorized reproduction or distribution
+of this software, or any portion of it, may result in severe civil and
+criminal penalties, and will be prosecuted to the maximum extent possible
+under the law.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OWNERSHIP
+━━━━━━━━━━━━
+This software, Bavaria COP 1809 (the "Software"), including all source
+code, design, architecture, documentation, and associated materials, is
+the sole and exclusive intellectual property of Frank L. Adams III
+("Author"). All rights not expressly granted herein are reserved by
+the Author.
+
+2. LIMITED EDUCATIONAL USE LICENSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Permission is hereby granted, free of charge, to faculty, staff, and
+students of the U.S. Army War College, Carlisle Barracks, Pennsylvania,
+to use this Software for non-commercial educational purposes only,
+subject to all conditions stated in this License.
+
+This limited grant of use is personal and non-transferable. It does not
+constitute a transfer of ownership or any intellectual property rights.
+
+3. CONDITIONS OF USE
+━━━━━━━━━━━━━━━━━━━━
+Any permitted use of this Software is subject to the following conditions:
+
+  a. This copyright notice and License must be retained in all copies or
+     substantial portions of the Software.
+
+  b. The Software may not be modified, adapted, or used as the basis for
+     any derivative work without the prior written permission of the Author.
+
+  c. Attribution must be maintained. The following notice must appear in
+     any permitted copy or use of the Software:
+     "Bavaria COP 1809 © 2025 Frank L. Adams III. All Rights Reserved."
+
+  d. The Software may not be used in connection with any military
+     operation, classified system, or government contract without the
+     prior written permission of the Author.
+
+4. RESTRICTIONS — EXPRESSLY PROHIBITED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The following actions are expressly prohibited without prior written
+permission from the Author:
+
+  a. COMMERCIAL USE: Using, deploying, licensing, sublicensing, selling,
+     renting, or otherwise monetizing this Software or any portion thereof,
+     whether directly or indirectly, for commercial gain.
+
+  b. REDISTRIBUTION: Distributing, publishing, transmitting, or otherwise
+     making this Software available to any person or entity outside the
+     U.S. Army War College community.
+
+  c. DERIVATIVE WORKS: Creating, developing, or distributing any software,
+     product, or service that is based on, derived from, incorporates, or
+     is substantially similar to this Software.
+
+  d. REVERSE ENGINEERING: Decompiling, disassembling, or otherwise
+     attempting to derive the source code or underlying algorithms of
+     any compiled or obfuscated portions of this Software.
+
+  e. REMOVAL OF NOTICES: Removing, altering, obscuring, or modifying
+     any copyright notice, trademark, proprietary legend, or other
+     intellectual property marking in or on the Software.
+
+  f. SUBLICENSING: Granting any rights to this Software to any third
+     party without the prior written consent of the Author.
+
+5. RESERVATION OF COMMERCIAL RIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The Author expressly reserves the exclusive right to:
+
+  a. Commercialize, sell, license, or otherwise exploit this Software
+     and any derivative works for commercial gain.
+
+  b. License this Software to third parties under separate commercial
+     license agreements.
+
+  c. Create and distribute enhanced, modified, or derivative versions
+     of this Software for commercial purposes.
+
+  d. Transfer, assign, or sell the intellectual property rights to
+     this Software to any third party.
+
+6. THIRD-PARTY COMPONENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+This Software incorporates the following third-party open source
+components, each governed by their respective licenses:
+
+  a. Leaflet.js (v1.9.4) — BSD 2-Clause License
+     Copyright © 2010-2023 Vladimir Agafonkin
+     https://leafletjs.com
+
+  b. OpenStreetMap Tiles — Open Database License (ODbL)
+     © OpenStreetMap contributors
+     https://www.openstreetmap.org/copyright
+
+  c. Google Fonts (Cinzel, Share Tech Mono, IM Fell English)
+     — SIL Open Font License and Apache License 2.0
+     https://fonts.google.com
+
+The inclusion of these third-party components does not affect the
+proprietary nature of the Software as a whole. The Author's proprietary
+rights apply to all original work in this Software.
+
+7. HISTORICAL CONTENT
+━━━━━━━━━━━━━━━━━━━━━
+This Software incorporates historical data, geographical coordinates,
+unit designations, and campaign information relating to the 1809 Franco-
+Austrian War. The selection, arrangement, compilation, and presentation
+of this historical data constitutes original creative work protected by
+copyright. Source materials used in development include:
+
+  - John H. Gill, "From Abensberg to Znaim: the Franco-Austrian War
+    of 1809" (USAWC monograph, v.2, January 2026)
+  - Jay Luvaas, "Napoleon on the Art of War" (The Free Press, 1999)
+  - Napoleon's Historical Correspondence, Germany and Italy 1809
+  - Flight of the Eagle Umpire Reference V4
+
+8. DISCLAIMER OF WARRANTIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE ENTIRE
+RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH THE USER.
+
+9. LIMITATION OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING OUT
+OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THIS SOFTWARE, EVEN
+IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. GOVERNING LAW AND JURISDICTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This License shall be governed by and construed in accordance with the
+laws of the United States of America and the Commonwealth of Pennsylvania,
+without regard to its conflict of law provisions. Any dispute arising
+under this License shall be subject to the exclusive jurisdiction of the
+federal and state courts located in Cumberland County, Pennsylvania.
+
+11. ENFORCEMENT
+━━━━━━━━━━━━━━━
+Violation of any term of this License automatically terminates the
+limited rights granted herein. The Author reserves the right to pursue
+all available legal remedies for unauthorized use, including but not
+limited to injunctive relief, actual damages, statutory damages under
+17 U.S.C. § 504, and attorney's fees under 17 U.S.C. § 505.
+
+12. CONTACT AND COMMERCIAL LICENSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+For commercial licensing inquiries, permissions, or questions regarding
+this License, contact:
+
+  Frank L. Adams III
+  Email: fl16stuff@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+By using this Software you acknowledge that you have read this License,
+understand it, and agree to be bound by its terms and conditions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Bavaria COP 1809 © 2025 Frank L. Adams III. All Rights Reserved.
+Last revised: May 2025
